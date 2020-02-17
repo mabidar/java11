@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/demo2020-0.0.1-SNAPSHOT.jar Demo2020Application
+web: java  $JAVA_OPTS -jar target/classes:target/demo2020-0.0.1-SNAPSHOT.jar 
